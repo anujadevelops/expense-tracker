@@ -55,14 +55,10 @@ Password: password
 
 ## Main Application Interface
 ### The main window allows you to:
-
-### Set a budget for each expense category.
-
-### Add expenses and view them in a table.
-
-### Delete expenses as necessary.
-
-### View total spending and budget status.
+- Set a budget for each expense category.
+- Add expenses and view them in a table.
+- Delete expenses as necessary.
+- View total spending and budget status.
 
 ##  Data Persistence
 ### Expenses are stored in a file called expenses.txt and will persist even after closing the app. This file can be found in the project directory.
@@ -77,6 +73,7 @@ Password: password
 ### 4️⃣ Commit your changes (e.g., git commit -am 'Add new feature').
 ### 5️⃣ Push to your fork (e.g., git push origin feature-branch).
 ### 6️⃣ Submit a pull request.
+
 ## 💡 Feedback
 ### If you have suggestions or encounter any issues, feel free to open an issue on the repository or reach out directly.
 
